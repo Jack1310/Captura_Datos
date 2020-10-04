@@ -11,3 +11,16 @@ C:\Users\Jack Cruz\Desktop\Captura\bin\Debug\netcoreapp3.1\Captura.pdb
 C:\Users\Jack Cruz\Desktop\Captura\obj\Debug\netcoreapp3.1\Captura.dll
 C:\Users\Jack Cruz\Desktop\Captura\obj\Debug\netcoreapp3.1\Captura.pdb
 C:\Users\Jack Cruz\Desktop\Captura\obj\Debug\netcoreapp3.1\Captura.genruntimeconfig.cache
+C:\Users\Jack Cruz\Documents\INTEC\Trimestre 4\Programacion_II\Lab\Captura\bin\Debug\netcoreapp3.1\Captura.exe
+C:\Users\Jack Cruz\Documents\INTEC\Trimestre 4\Programacion_II\Lab\Captura\bin\Debug\netcoreapp3.1\Captura.deps.json
+C:\Users\Jack Cruz\Documents\INTEC\Trimestre 4\Programacion_II\Lab\Captura\bin\Debug\netcoreapp3.1\Captura.runtimeconfig.json
+C:\Users\Jack Cruz\Documents\INTEC\Trimestre 4\Programacion_II\Lab\Captura\bin\Debug\netcoreapp3.1\Captura.runtimeconfig.dev.json
+C:\Users\Jack Cruz\Documents\INTEC\Trimestre 4\Programacion_II\Lab\Captura\bin\Debug\netcoreapp3.1\Captura.dll
+C:\Users\Jack Cruz\Documents\INTEC\Trimestre 4\Programacion_II\Lab\Captura\bin\Debug\netcoreapp3.1\Captura.pdb
+C:\Users\Jack Cruz\Documents\INTEC\Trimestre 4\Programacion_II\Lab\Captura\obj\Debug\netcoreapp3.1\Captura.csprojAssemblyReference.cache
+C:\Users\Jack Cruz\Documents\INTEC\Trimestre 4\Programacion_II\Lab\Captura\obj\Debug\netcoreapp3.1\Captura.AssemblyInfoInputs.cache
+C:\Users\Jack Cruz\Documents\INTEC\Trimestre 4\Programacion_II\Lab\Captura\obj\Debug\netcoreapp3.1\Captura.AssemblyInfo.cs
+C:\Users\Jack Cruz\Documents\INTEC\Trimestre 4\Programacion_II\Lab\Captura\obj\Debug\netcoreapp3.1\Captura.csproj.CoreCompileInputs.cache
+C:\Users\Jack Cruz\Documents\INTEC\Trimestre 4\Programacion_II\Lab\Captura\obj\Debug\netcoreapp3.1\Captura.dll
+C:\Users\Jack Cruz\Documents\INTEC\Trimestre 4\Programacion_II\Lab\Captura\obj\Debug\netcoreapp3.1\Captura.pdb
+C:\Users\Jack Cruz\Documents\INTEC\Trimestre 4\Programacion_II\Lab\Captura\obj\Debug\netcoreapp3.1\Captura.genruntimeconfig.cache

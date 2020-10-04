@@ -362,14 +362,15 @@ namespace Captura
                 if (vnombre.KeyChar == 8 && vcompleto.Length > 0)
                 {
                     vcompleto.Length--;
-                    Console.Write(" \b");
+                    Console.Write("\b \b");
                 }
 
-                else if (vnombre.KeyChar != 13)
+                else if (vnombre.KeyChar != 13 && vnombre.KeyChar != 8)
                 {
                     try
                     {
                         vcompleto.Append(vnombre.KeyChar);
+                        Console.Write("*");
                     }
                     catch{}
                 }

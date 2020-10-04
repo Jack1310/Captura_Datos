@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jack Cruz\\Desktop\\Captura\\Captura.csproj": {}
+    "C:\\Users\\Jack Cruz\\Documents\\INTEC\\Trimestre 4\\Programacion_II\\Lab\\Captura\\Captura.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jack Cruz\\Desktop\\Captura\\Captura.csproj": {
+    "C:\\Users\\Jack Cruz\\Documents\\INTEC\\Trimestre 4\\Programacion_II\\Lab\\Captura\\Captura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jack Cruz\\Desktop\\Captura\\Captura.csproj",
+        "projectUniqueName": "C:\\Users\\Jack Cruz\\Documents\\INTEC\\Trimestre 4\\Programacion_II\\Lab\\Captura\\Captura.csproj",
         "projectName": "Captura",
-        "projectPath": "C:\\Users\\Jack Cruz\\Desktop\\Captura\\Captura.csproj",
+        "projectPath": "C:\\Users\\Jack Cruz\\Documents\\INTEC\\Trimestre 4\\Programacion_II\\Lab\\Captura\\Captura.csproj",
         "packagesPath": "C:\\Users\\Jack Cruz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jack Cruz\\Desktop\\Captura\\obj\\",
+        "outputPath": "C:\\Users\\Jack Cruz\\Documents\\INTEC\\Trimestre 4\\Programacion_II\\Lab\\Captura\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
           "C:\\Users\\Jack Cruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -52,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
